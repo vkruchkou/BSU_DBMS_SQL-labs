@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="lab4.4">
+  <Items>
+    <LogicalFolder Name="Соединения" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="HOME-PC\SQLS:sa">
+          <Created>2023-10-13T03:14:30.9219595+03:00</Created>
+          <Type>SQL</Type>
+          <Server>HOME-PC\SQLS</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>AdventureWorksDW2019</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Среда Microsoft SQL Server Management Studio - запрос</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Запросы" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery10.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery10.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery11.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery11.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery12.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery12.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery13.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery13.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery14.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery14.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery15.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery15.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery16.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery16.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery17.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery17.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery18.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery18.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery19.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery19.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery20.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery20.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery21.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery21.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery22.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery22.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery23.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery23.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery24.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery24.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery25.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery25.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery26.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery26.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery27.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery27.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery7.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery9.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOME-PC\SQLS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOME-PC\SQLS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery9.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Разное" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

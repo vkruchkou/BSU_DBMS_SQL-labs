@@ -1,0 +1,4 @@
+SELECT Kontinent, AVG(CAST(KolNas AS FLOAT)/PL) AS PL_PLotn
+FROM Tabl_Kontinent$
+GROUP BY Kontinent
+HAVING AVG(CAST(KolNas AS FLOAT)/PL) > 100;

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "lab5_1", "lab5_1\lab5_1.ssmssqlproj", "{6E434253-03D7-485D-8343-B23D44A26E16}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Дополнение к Лаб.раб.2-4, к УСРС1", "Дополнение к Лаб.раб.2-4, к УСРС1\Дополнение к Лаб.раб.2-4, к УСРС1.ssmssqlproj", "{59937420-BB70-43D3-BD92-3FC71E8CC394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E434253-03D7-485D-8343-B23D44A26E16}.Default|Default.ActiveCfg = Default
+		{F9A099ED-BF78-4333-9CB5-904DDA5E032F}.Default|Default.ActiveCfg = Default
+		{59937420-BB70-43D3-BD92-3FC71E8CC394}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {112FF07E-96A9-4D37-AF65-0CE53337F42F}
+	EndGlobalSection
+EndGlobal

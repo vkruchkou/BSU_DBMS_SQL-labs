@@ -1,0 +1,1 @@
+Select FIO, Data From Student

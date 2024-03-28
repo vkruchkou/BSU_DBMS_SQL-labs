@@ -1,0 +1,7 @@
+use TestBD1
+Create Table TestTable5(
+iID int DEFAULT 1,
+CONSTRAINT check_iID2 CHECK (iID is NOT NULL),
+CONSTRAINT u_iID
+UNIQUE NONCLUSTERED(iID)
+)

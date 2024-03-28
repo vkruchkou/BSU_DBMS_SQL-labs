@@ -1,0 +1,4 @@
+SELECT *
+FROM Student
+ORDER BY data
+OFFSET 5 ROWS;

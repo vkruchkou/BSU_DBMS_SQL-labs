@@ -1,0 +1,1 @@
+Select 'Студент '+FIO+', специализация: ' + spez AS Информация From Student

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Скрипты Sql фильтрация", "Скрипты Sql фильтрация\Скрипты Sql фильтрация.ssmssqlproj", "{78B12D95-DC01-4C9A-B39B-6254272FAA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B12D95-DC01-4C9A-B39B-6254272FAA93}.Default|Default.ActiveCfg = Default
+		{5C159AB0-B86C-4992-9330-64BAA4B395D3}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DDAD14A-45E0-4F28-9EA0-65ABD14BB9C3}
+	EndGlobalSection
+EndGlobal

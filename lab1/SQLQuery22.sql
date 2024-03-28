@@ -1,0 +1,4 @@
+	USE TestBD1
+
+ALTER TABLE dbo.Klient_alt
+ALTER COLUMN Phone nVARCHAR(200) not NULL

@@ -1,0 +1,2 @@
+SELECT * FROM Products
+WHERE Price * ProductCount BETWEEN 100000 AND 200000;

@@ -1,0 +1,4 @@
+	USE TestBD1
+
+ALTER TABLE dbo.Klient_alt WITH NOCHECK
+ADD CHECK (Age>21)

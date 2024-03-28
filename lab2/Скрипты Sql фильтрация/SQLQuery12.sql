@@ -1,0 +1,3 @@
+SELECT *
+FROM Student
+WHERE FIO LIKE '[Ì-Ñ]%' ;

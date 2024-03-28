@@ -1,0 +1,2 @@
+SELECT ROUND(AVG(CAST(KolNas AS FLOAT)), 1) AS SRed
+FROM Tabl_Kontinent$;

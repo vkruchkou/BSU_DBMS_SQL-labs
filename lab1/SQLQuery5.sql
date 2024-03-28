@@ -1,0 +1,3 @@
+CREATE DATABASE Ucheb_0
+ON PRIMARY(FILENAME='C:\Program Files\Microsoft SQL Server\MSSQL15.SQLS\MSSQL\DATA\Ucheb_4.mdf')
+FOR ATTACH;
